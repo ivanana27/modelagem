@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/gluegen-java-src.zip"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/gluegen-rt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/joal-android-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/jogl-all.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/jogl-all-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/jogl-all-noawt-natives-windows-amd64.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/Bibliotecas/jogl-java-src.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Ivana/workspace/JOPL/OBJLoader.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

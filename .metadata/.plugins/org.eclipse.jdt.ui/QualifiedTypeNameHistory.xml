@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.jogamp.opengl.GLEventListener"/>
+<fullyQualifiedTypeName name="com.jogamp.opengl.GL"/>
+<fullyQualifiedTypeName name="com.jogamp.opengl.glu.GLU"/>
+<fullyQualifiedTypeName name="com.jogamp.opengl.util.gl2.GLUT"/>
+</qualifiedTypeNameHistroy>
